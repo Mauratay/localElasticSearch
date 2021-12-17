@@ -2,9 +2,9 @@
 
 This template shows how to enable full text search on Firestore documents by using one of the followning hosted search services:
 
-  * [Algolia](https://algolia.com)
+
   * [Elastic](https://elastic.co)
-  * [Typesense](https://typesense.org)
+
 
 ## Functions Code
 
@@ -31,5 +31,13 @@ Whenever a new note is created or modified a Function sends the content to be in
 
 ## Setting up the sample
 
-For setup and overview, please see the [Full Text Search Solution](https://firebase.google.com/docs/firestore/solutions/search) in the
-Firestore documentation.
+firebase init emulators [link](https://firebase.google.com/docs/emulator-suite/install_and_configure)
+
+Enable:
+functions
+firestore
+authentication
+
+When going to index.html, refresh a couple of times before indexing.
+
+
