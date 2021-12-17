@@ -35,11 +35,9 @@ firebase init emulators [link](https://firebase.google.com/docs/emulator-suite/i
 
 Enable: 
 
-functions
-
-firestore
-
-authentication
+- Functions
+- Firestore
+- Authentication
 
 When going to index.html, refresh a couple of times before indexing.
 
