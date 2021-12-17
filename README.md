@@ -33,9 +33,9 @@ Whenever a new note is created or modified a Function sends the content to be in
 
 firebase init emulators [link](https://firebase.google.com/docs/emulator-suite/install_and_configure)
 
-Enable:
-functions
-firestore
+Enable: \n
+functions \n
+firestore \n
 authentication
 
 When going to index.html, refresh a couple of times before indexing.
